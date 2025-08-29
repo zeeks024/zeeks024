@@ -46,26 +46,26 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeks024&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeks024&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zeeks024&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=radical" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeks024&theme=radical" alt="Activity Graph"/>
 </div>
 
 ---
@@ -74,10 +74,10 @@
 
 <div align="center">
   <a href="https://github.com/USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=project1&theme=radical" alt="Project 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeeks024&repo=project1&theme=radical" alt="Project 1"/>
   </a>
   <a href="https://github.com/USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=project2&theme=radical" alt="Project 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeeks024&repo=project2&theme=radical" alt="Project 2"/>
   </a>
 </div>
 
